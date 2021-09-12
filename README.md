@@ -2,7 +2,7 @@
 
 Face Recognition project which can detect the live faces of students and mark their Attendance in a CSV or Excel file .
 
-This project will detect the live faces through the webcam by searching the face in the 'Images' folder and it will also write the names and the current time of detecting the face in a csv or Excel File to mark the Attendance of the person detected .
+This project will detect the live faces through the webcam by searching the face in the 'ImageAttendance' folder and it will also write the names and the current time of detecting the face in a csv or Excel File (Attendance.csv) to mark the Attendance of the person detected .
 
 
 
@@ -35,16 +35,18 @@ PACKAGES :
             
 7.Clone my git repository to a directory in your device using : git clone command 
 
-9.NOW YOURE ALL SET TO RUN THE CODE IN YOUR PYCHARM IDE. Woohoo !!!
+8.Run the code file- AttendanceProject.py in your pycharm IDE .
+
+9.NOW YOURE ALL SET. Woohoo !!!
 
 # IMPORTANT #
 
 - Change the path variable in the code to the location of the cloned github folders on your device .
 
 
-- To recognize new faces through the webcam add clear front facing images of the new faces in the 'Images' folder with the name of the image renamed to the name of the Person.
+- To recognize new faces through the webcam add clear front facing images of the new faces in the 'ImageAttendance' folder with the name of the image renamed to the name of the Person.
 
-    Eg: To recognize Mr. Sundar Pichai's face or image , download his clear front facing image from the internet and rename the image to : Sundar Pichai.jpg and then add this jpg file      to the 'Images' folder .
+    Eg: To recognize Mr. Sundar Pichai's face or image , download his clear front facing image from the internet and rename the image to : Sundar Pichai.jpg and then add this jpg           file to the 'ImageAttendance' folder .
 
 
 
